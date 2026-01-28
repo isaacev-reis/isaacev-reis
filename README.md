@@ -1,11 +1,11 @@
 ## Hello, i'm Isaac ⚡🔵
 
 🎓 Computer Science student at the **Federal University of Sergipe (UFS)** 🔵  
-💻 Focused on **back-end development** ⚡  
+💻 Focused on **back-end development** ⚡ 
 
 ---
 
-## ⚡🛠️ Technologies & Tools
+## ⚡🛠️ Technologies & Tools ⚙️
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
@@ -15,11 +15,11 @@
 
 ---
 
-## ⚡🔵 Interested In
+## ⚡🔵 Interested In 
 
 - 🔵 Back-end Development  
 - ⚡ Object-Oriented Programming  
-- 🔵 Academic and personal projects  
+- ⚙️ Academic and personal projects  
 - ⚡ Spring Boot  
 - 🔵 REST APIs    
 
