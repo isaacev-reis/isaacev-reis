@@ -15,7 +15,7 @@
 
 ---
 
-## ⚡🔵 Interested In 
+## ⚡ Interested In 
 
 - 🔵 Back-end Development  
 - ⚡ Object-Oriented Programming  
