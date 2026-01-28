@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello, i'm Isaac ⚡🔵
 
-<!--
-**isaacev-reis/isaacev-reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at the **Federal University of Sergipe (UFS)** 🔵  
+💻 Focused on **back-end development** ⚡  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡🛠️ Technologies & Tools
+
+🔵 **Languages:**  
+- ⚡ Java  
+- 🔵 JavaScript  
+
+🔵 **Tools:**  
+- ⚡ Git  
+- 🔵 GitHub  
+
+🔵 **Main IDE:**  
+- ⚡ IntelliJ IDEA  
+
+---
+
+## ⚡🔵 Interested In
+
+- 🔵 Back-end Development  
+- ⚡ Object-Oriented Programming  
+- 🔵 Academic and personal projects  
+- ⚡ Spring Boot  
+- 🔵 REST APIs    
+
+---
