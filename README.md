@@ -17,10 +17,10 @@
 
 ## ⚡ Interested In 
 
-- 🔵 Back-end Development  
-- ⚡ Object-Oriented Programming  
-- ⚙️ Academic and personal projects  
-- ⚡ Spring Boot  
-- 🔵 REST APIs    
+- Back-end Development  
+- Object-Oriented Programming  
+- Academic and personal projects  
+- Spring Boot  
+- REST APIs    
 
 ---
