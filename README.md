@@ -7,7 +7,7 @@
 
 ## ⚡ Technologies ⚙️
 
-![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=java&logoColor=#FFB703)
+![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=java&logoColor=FFB703)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E40AF?style=for-the-badge&logo=springboot&logoColor=FACC15)
 ![C](https://img.shields.io/badge/C-1D4ED8?style=for-the-badge&logo=c&logoColor=FACC15)
 
