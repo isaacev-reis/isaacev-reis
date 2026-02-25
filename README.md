@@ -7,7 +7,7 @@
 
 ## ⚡ Technologies ⚙️
 
-![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=java&logoColor=FACC15)
+![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=java&logoColor=#FFB703)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E40AF?style=for-the-badge&logo=springboot&logoColor=FACC15)
 ![C](https://img.shields.io/badge/C-1D4ED8?style=for-the-badge&logo=c&logoColor=FACC15)
 
@@ -30,11 +30,3 @@
 - REST APIs
 - Web 
 - Academic and personal projects  
-
----
-
-## 📈 GitHub Stats
-
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=blue_navy&title_color=38BDF8&icon_color=FACC15)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=blue_navy&title_color=38BDF8)
