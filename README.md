@@ -1,4 +1,4 @@
-# I don't just write code. I build systems ⚡🔵
+# </> I don't just write code. I build systems ⚡🔵
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+⚡;Building+APIs+with+Java+%2B+Spring+Boot+⚡;Computer+Science+Student)
 
@@ -7,7 +7,7 @@
 
 ---
 
-## ⚡ Technologies ⚙️
+## ⚡ Technologies 
 
 ![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=java&logoColor=F59E0B)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E40AF?style=for-the-badge&logo=springboot&logoColor=FACC15)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tools 🔧
+## 🛠️ Tools 
 
 ![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=F59E0B)
 ![GitHub](https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=38BDF8)
