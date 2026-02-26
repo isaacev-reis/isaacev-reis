@@ -1,6 +1,6 @@
 # Hello, i'm Isaac ⚡🔵
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+⚡;Building+APIs+with+Java+Spring Boot+⚡;Computer+Science+Student+🔵)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+⚡;Building+APIs+with+Java+%2B+Spring+Boot+⚡;Computer+Science+Student+🔵)
 
 🎓 Computer Science student at the **Federal University of Sergipe (UFS)** 🔵  
 💻 Focused on **Back-end Development** ⚡  
