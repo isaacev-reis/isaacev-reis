@@ -6,8 +6,8 @@
 
 </div>
 
-🎓 Computer Science student at the **Federal University of Sergipe (UFS)** 
-💻 Focused on **Back-end Development** ⚡  
+- 🎓 Computer Science student at the **Federal University of Sergipe (UFS)** 
+- 💻 Focused on **Back-end Development** ⚡  
 
 ---
 
