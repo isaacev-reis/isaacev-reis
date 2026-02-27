@@ -1,4 +1,4 @@
-# I don't just write code. I build systems ⚡🔵
+# I don't just write code. I build systems.
 
 <div align="center">
 
@@ -6,12 +6,12 @@
 
 </div>
 
-🎓 Computer Science student at the **Federal University of Sergipe (UFS)** 🔵  
+🎓 Computer Science student at the **Federal University of Sergipe (UFS)** 
 💻 Focused on **Back-end Development** ⚡  
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🚀 Technologies  
+### ⚡ Technologies  
 
 <img src="https://skillicons.dev/icons?i=java,spring,c&theme=dark" />
 
