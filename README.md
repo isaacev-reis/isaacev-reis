@@ -21,7 +21,7 @@
 
 ### ⚡ Technologies
 
-<img src="https://skillicons.dev/icons?i=java,spring,c,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=dark" />
 
 </td>
 
