@@ -6,8 +6,8 @@
 
 </div>
 
-- 🎓 Computer Science student at the **Federal University of Sergipe (UFS)** 
-- 💻 Focused on **Back-end Development** ⚡  
+* 🎓 Computer Science student at the **Federal University of Sergipe (UFS)**
+* 💻 Focused on **Back-end Development** ⚡
 
 ---
 
@@ -19,15 +19,15 @@
 <tr>
 <td align="center" width="50%">
 
-### ⚡ Technologies  
+### ⚡ Technologies
 
-<img src="https://skillicons.dev/icons?i=java,spring,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,c,postgres&theme=dark" />
 
 </td>
 
 <td align="center" width="50%">
 
-### 🛠 Tools  
+### 🛠 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,idea,docker,postman&theme=dark" />
 
@@ -41,8 +41,8 @@
 
 ## 🚀 Interested In
 
-- Back-end Development  
-- Object-Oriented Programming  
-- REST APIs  
-- Web  
-- Academic and personal projects  
+* Back-end Development
+* Object-Oriented Programming
+* REST APIs
+* Web
+* Academic and personal projects
